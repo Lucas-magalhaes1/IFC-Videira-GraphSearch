@@ -26,10 +26,10 @@ Ao rodar o código, o usuário pode inserir dois pontos no campus, como "Guarita
 
 ### Exemplo de saída:
 
-![Resultado da Busca](result_image.png)
+![Resultado da Busca](Exemplo-Resultado.png)
 
 
-No gráfico acima, o caminho em vermelho representa o caminho mais curto encontrado pelo algoritmo de Dijkstra.
+
 
  ## Como Executar                                                                 
 
